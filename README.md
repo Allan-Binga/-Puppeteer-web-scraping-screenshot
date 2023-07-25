@@ -2,6 +2,9 @@
 
  This is a simple Node.js script that uses the Puppeteer library to perform web scraping and capture a screenshot of a web page. The script navigates to a specified URL, takes a screenshot of the page, and saves it as "screenshot.png" in the current working directory.
 
+# Site of study
+https://learnwebcode.github.io/practice-requests/
+
 # Requirements
 
 Before running the script, ensure you have the following installed on your machine:
